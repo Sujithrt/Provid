@@ -1,4 +1,4 @@
-#Running Website (homepage) Locally
+# Running Website (homepage) Locally
 
 How to run locally?
 1. Install XAMPP.
