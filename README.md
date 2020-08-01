@@ -61,14 +61,14 @@ cp .env .env.local
 
 # Covid-19 Detection Website Application
 
-## Windows Installation Instructions
+## Installation Instructions
 
 - Download or decrement to Python (below 3.7 version and 64-bit version) for TensorFlow
 ```
 I used 3.6.8, 64-bit Python
 https://www.python.org/downloads/release/python-368/
 ```
-If you're using anaconda, update the system path and anaconda to this version of Python.
+
 - Create & activate virtual environment 
 ```
 python -m venv covidEnv
