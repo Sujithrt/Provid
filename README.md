@@ -73,11 +73,7 @@ cp .env .env.local
 # Covid-19 Detection Website Application
 
 ## Windows Installation Instructions
-- Create the git repo locally and cd into it
-```
-git clone https://github.com/paulinawins/CovidProject.git
-cd CovidProject
-```
+
 - Download or decrement to Python (below 3.7 version and 64-bit version) for TensorFlow
 ```
 I used 3.6.8, 64-bit Python
